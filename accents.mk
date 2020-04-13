@@ -2,6 +2,7 @@
 PRODUCT_PACKAGES += \
     AtlantisGreen \
     AzureRadiance \
+    AEXGreen \
     Black \
     ElectricViolet \
     FiBlue \
