@@ -6,6 +6,7 @@ PRODUCT_PACKAGES += \
     ElectricViolet \
     FiBlue \
     MarsOrange \
+    MayurBlue \
     NovaYellow \
     PersianRed \
     SlateSpruce \
@@ -26,6 +27,7 @@ PRODUCT_PACKAGES += \
     NextbitMint \
     OneplusRed \
     PepsiBlue \
+    PixelBlue \
     PocophoneYellow \
     RazerGreen \
     SamsungBlue \
