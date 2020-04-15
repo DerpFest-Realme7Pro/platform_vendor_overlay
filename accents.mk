@@ -1,3 +1,4 @@
 # Accents
 PRODUCT_PACKAGES += \
-    FiBlue
+    FiBlue \
+    MayurBlue
