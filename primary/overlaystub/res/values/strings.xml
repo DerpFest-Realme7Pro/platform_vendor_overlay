@@ -38,4 +38,12 @@
     <string name="theme_wallpaper_title_derpblue">Derped Blue</string>
     <string name="theme_wallpaper_attribution_derpblue">DerpFest</string>
 
+    <!-- Values to declare MelloBlue. -->
+    <string name="theme_name_melloblue">MelloBlue</string>
+    <string name="theme_title_melloblue">@string/theme_name_melloblue</string>
+    <string name="theme_overlay_color_melloblue">com.accents.mayurblue</string>
+    <string name="theme_overlay_primary_melloblue">com.android.theme.color.primary.mayurdark</string>
+    <string name="theme_wallpaper_title_melloblue">Mello Blue</string>
+    <string name="theme_wallpaper_attribution_melloblue">marshmello_61</string>
+
 </resources>
