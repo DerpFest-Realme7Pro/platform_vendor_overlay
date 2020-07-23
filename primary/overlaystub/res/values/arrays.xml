@@ -3,5 +3,6 @@
     <string-array name="themes">
         <item>default</item>
         <item>derpblue</item>
+        <item>melloblue</item>
     </string-array>
 </resources>
